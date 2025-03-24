@@ -1,4 +1,4 @@
-# UA-Taller Estadística Avanzada Semana 2
+# Taller Estadística Avanzada Semana 2
 
 **Taller de Estadística utilizando Python**
 
@@ -20,7 +20,7 @@ Análisis estadístico de calificaciones de exámenes y aprobación de estudiant
 
 ---
 
-# UA-Statistics Workshop: Week 2
+# Statistics Workshop: Week 2
 
 **Statistics Workshop using Python**
 
